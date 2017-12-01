@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class LoginPage {
 
+	//Checking Exceptiongs
 	//Default driver has null
 	WebDriver driver;
 	public LoginPage(WebDriver driver)
